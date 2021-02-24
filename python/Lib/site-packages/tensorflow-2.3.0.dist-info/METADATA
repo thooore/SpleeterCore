@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: tensorflow
+Version: 2.3.0
+Summary: TensorFlow is an open source machine learning framework for everyone.
+Home-page: https://www.tensorflow.org/
+Author: Google Inc.
+Author-email: packages@tensorflow.org
+License: Apache 2.0
+Download-URL: https://github.com/tensorflow/tensorflow/tags
+Keywords: tensorflow tensor machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: absl-py (>=0.7.0)
+Requires-Dist: astunparse (==1.6.3)
+Requires-Dist: gast (==0.3.3)
+Requires-Dist: google-pasta (>=0.1.8)
+Requires-Dist: h5py (<2.11.0,>=2.10.0)
+Requires-Dist: keras-preprocessing (<1.2,>=1.1.1)
+Requires-Dist: numpy (<1.19.0,>=1.16.0)
+Requires-Dist: opt-einsum (>=2.3.2)
+Requires-Dist: protobuf (>=3.9.2)
+Requires-Dist: tensorboard (<3,>=2.3.0)
+Requires-Dist: tensorflow-estimator (<2.4.0,>=2.3.0)
+Requires-Dist: termcolor (>=1.1.0)
+Requires-Dist: wrapt (>=1.11.1)
+Requires-Dist: wheel (>=0.26)
+Requires-Dist: six (>=1.12.0)
+Requires-Dist: scipy (==1.4.1)
+Requires-Dist: grpcio (>=1.8.6)
+
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+[![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
+
+TensorFlow is an open source software library for high performance numerical
+computation. Its flexible architecture allows easy deployment of computation
+across a variety of platforms (CPUs, GPUs, TPUs), and from desktops to clusters
+of servers to mobile and edge devices.
+
+Originally developed by researchers and engineers from the Google Brain team
+within Google's AI organization, it comes with strong support for machine
+learning and deep learning and the flexible numerical computation core is used
+across many other scientific domains.
+
+
