@@ -1,0 +1,3 @@
+[console_scripts]
+spleeter=spleeter.__main__:entrypoint
+
