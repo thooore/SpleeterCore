@@ -1,0 +1,3 @@
+[console_scripts]
+eyeD3=eyed3.main:_main
+

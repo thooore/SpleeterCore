@@ -1,0 +1,3 @@
+Runs eyeD3 which is GPL and can be found here: https://github.com/nicfit/eyeD3
+Runs mp3guessenc which is LGPL and can be found here: https://sourceforge.net/projects/mp3guessenc/
+This script is GPL if you want to edit it
